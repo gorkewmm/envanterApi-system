@@ -2,20 +2,13 @@
 
 Bu proje Go (Golang) ve React kullanılarak geliştirilmiş bir envanter takip sistemidir.
 
-## 🔧 Kullanılan Teknolojiler
-- Backend: Go + Gin
-- Frontend: React
-- Veritabanı: SQL Server
-- JWT ile Kimlik Doğrulama
+## 🚀 Kullanılan Teknolojiler
+
+![Go](https://img.shields.io/badge/Backend-Go%20%2B%20Gin-brightgreen)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![SQLServer](https://img.shields.io/badge/Database-SQL--Server-lightgrey)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange)
+
 - Admin & Kullanıcı Paneli
-
-## 🚀 Kurulum
-```bash
-# Frontend
-cd Front-end/my-react
-npm install
-npm start
-
-# Backend
-cd Back
-go run .
+- CRUD İşlemleri
+- Yetkilendirme Sistemi
